@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DetermineCountryCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+898c146b97b6b03f424f49b81c9842e59a85a07b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DetermineCountryCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DetermineCountryCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
