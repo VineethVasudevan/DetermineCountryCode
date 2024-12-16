@@ -1,0 +1,6 @@
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/bin/Release/net8.0/publish/config.json
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/bin/Release/net8.0/publish/DetermineCountryCode
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/bin/Release/net8.0/publish/DetermineCountryCode.dll
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/bin/Release/net8.0/publish/DetermineCountryCode.deps.json
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/bin/Release/net8.0/publish/DetermineCountryCode.runtimeconfig.json
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/bin/Release/net8.0/publish/DetermineCountryCode.pdb

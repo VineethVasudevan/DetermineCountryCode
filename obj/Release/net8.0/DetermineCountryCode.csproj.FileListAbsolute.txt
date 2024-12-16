@@ -1,0 +1,15 @@
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/bin/Release/net8.0/DetermineCountryCode
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/bin/Release/net8.0/config.json
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/bin/Release/net8.0/DetermineCountryCode.deps.json
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/bin/Release/net8.0/DetermineCountryCode.runtimeconfig.json
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/bin/Release/net8.0/DetermineCountryCode.dll
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/bin/Release/net8.0/DetermineCountryCode.pdb
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/obj/Release/net8.0/DetermineCountryCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/obj/Release/net8.0/DetermineCountryCode.AssemblyInfoInputs.cache
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/obj/Release/net8.0/DetermineCountryCode.AssemblyInfo.cs
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/obj/Release/net8.0/DetermineCountryCode.csproj.CoreCompileInputs.cache
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/obj/Release/net8.0/DetermineCountryCode.dll
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/obj/Release/net8.0/refint/DetermineCountryCode.dll
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/obj/Release/net8.0/DetermineCountryCode.pdb
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/obj/Release/net8.0/DetermineCountryCode.genruntimeconfig.cache
+/Users/vineeth/Desktop/Programming/DetermineCountryCode/obj/Release/net8.0/ref/DetermineCountryCode.dll
